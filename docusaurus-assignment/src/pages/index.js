@@ -13,16 +13,20 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+          Amber Lemire's Docusaurus Microsite
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">A documentation microsite created for TWR2019 Assignment 3: Working with Docusaurus</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            to="/docs/about">
+            Learn More
           </Link>
         </div>
+              <p>
+  This microsite demonstrates the use of Docusaurus to organize documentation using Markdown pages, navigation, and customized styling. It was created as part of a TWR2019 Developing Technical Documentation assignment.
+</p>
+
       </div>
     </header>
   );
@@ -36,7 +40,6 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
       </main>
     </Layout>
   );
