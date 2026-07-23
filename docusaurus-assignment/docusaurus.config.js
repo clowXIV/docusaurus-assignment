@@ -92,7 +92,7 @@ markdown: {
       navbar: {
         title: 'Site for TWR2019',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'DEFAULT LOGO!!!!!!!!!!!!',
           src: 'img/logo.svg',
         },
         items: [
@@ -117,7 +117,7 @@ markdown: {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'i don't get why this default thing doesn't have more text boxes',
                 to: '/docs/intro',
               },
             ],
@@ -126,15 +126,15 @@ markdown: {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
+                label: 'these are placeholders',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Discord',
+                label: 'these are unnecessary to the assignment',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
               {
-                label: 'X',
+                label: 'i dont know what im doing',
                 href: 'https://x.com/docusaurus',
               },
             ],
@@ -142,15 +142,6 @@ markdown: {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-              {
   to: '/docs/about',
   label: 'About',
   position: 'left',
@@ -164,7 +155,7 @@ markdown: {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Stupid Doodoo, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
