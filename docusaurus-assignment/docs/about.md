@@ -25,3 +25,9 @@ This microsite includes a customized homepage, an About page, a Contact page, up
 ## Reflection
 
 Before this assignment, I had little experience working with website documentation frameworks. Building this microsite provided an introduction to Docusaurus, Markdown, GitHub, and website customization while reinforcing the importance of organizing technical information in a clear and accessible format.
+
+```mermaid
+graph TD
+A[Create Content] --> B[Customize Site]
+B --> C[Deploy Website]
+```
