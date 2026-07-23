@@ -28,6 +28,6 @@ Before this assignment, I had little experience working with website documentati
 
 ```mermaid
 graph TD
-A[Create Content] --> B[Customize Site]
-B --> C[Deploy Website]
+A[Have fun using markdown] --> B[Die trying to understand how all the customization works because I'm a chud]
+B --> C[Deploy Website... and a funeral]
 ```
