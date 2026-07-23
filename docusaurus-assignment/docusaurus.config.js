@@ -117,6 +117,9 @@ markdown: {
               {
                 label: "i don't get why this default thing doesn't have more text boxes",
                 to: '/docs/intro',
+              },
+              ],
+          },
           {
             title: 'Community',
             items: [
