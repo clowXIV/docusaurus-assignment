@@ -108,41 +108,26 @@ markdown: {
     },
         ],
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: "i don't get why this default thing doesn't have more text boxes",
-                to: '/docs/intro',
-              },
-              ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'these are placeholders',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'these are unnecessary to the assignment',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'i dont know what im doing',
-                href: 'https://x.com/docusaurus',
-              },
-            ],
-          },
-          {
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Stupid Doodoo, Inc. Built with Docusaurus.`,
-      },
+footer: {
+  style: 'dark',
+  links: [
+    {
+      title: 'Resources',
+      items: [
+        {
+          label: 'Docusaurus Documentation',
+          href: 'https://docusaurus.io/docs',
+        },
+        {
+          label: 'GitHub Repository',
+          href: 'https://github.com/',
+        },
+      ],
+    },
+  ],
+  copyright: `Copyright © ${new Date().getFullYear()} My Stupid Docusaurus Microsite that keeps PISSING ME OFF.`,
+},
+
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
