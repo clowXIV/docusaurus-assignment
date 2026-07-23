@@ -117,7 +117,7 @@ markdown: {
             title: 'Docs',
             items: [
               {
-                label: 'i don't get why this default thing doesn't have more text boxes',
+                label: "i don't get why this default thing doesn't have more text boxes",
                 to: '/docs/intro',
               },
             ],
