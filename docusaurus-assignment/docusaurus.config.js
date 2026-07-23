@@ -83,7 +83,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Site for TWR2019',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -143,6 +143,17 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
               },
+              {
+  to: '/docs/about',
+  label: 'About',
+  position: 'left',
+},
+{
+  to: '/docs/contact',
+  label: 'Contact',
+  position: 'left',
+},
+
             ],
           },
         ],
