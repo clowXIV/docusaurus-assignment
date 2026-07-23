@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_assignment=self.webpackChunkdocusaurus_assignment||[]).push([["4403"],{3380(s){s.exports=JSON.parse('{"metadata":{"permalink":"/docusaurus-assignment/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

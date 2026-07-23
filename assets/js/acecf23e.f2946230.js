@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_assignment=self.webpackChunkdocusaurus_assignment||[]).push([["3220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/docusaurus-assignment/blog","blogTitle":"Blog","authorsListPath":"/docusaurus-assignment/blog/authors"}')}}]);

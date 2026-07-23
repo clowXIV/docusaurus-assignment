@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_assignment=self.webpackChunkdocusaurus_assignment||[]).push([["8620"],{8391(s,e,u){u.d(e,{createInfoServices:()=>a.v});var a=u(6491);u(1400)}}]);

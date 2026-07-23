@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_assignment=self.webpackChunkdocusaurus_assignment||[]).push([["4794"],{5041(s,e,u){u.d(e,{createEventModelingServices:()=>a.g});var a=u(6737);u(1400)}}]);
