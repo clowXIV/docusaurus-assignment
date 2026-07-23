@@ -97,17 +97,15 @@ markdown: {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+      to: '/docs/about',
+      label: 'About',
+      position: 'left',
+    },
+    {
+      to: '/docs/contact',
+      label: 'Contact',
+      position: 'left',
+    },
         ],
       },
       footer: {
@@ -119,9 +117,6 @@ markdown: {
               {
                 label: "i don't get why this default thing doesn't have more text boxes",
                 to: '/docs/intro',
-              },
-            ],
-          },
           {
             title: 'Community',
             items: [
@@ -140,18 +135,6 @@ markdown: {
             ],
           },
           {
-            title: 'More',
-            items: [
-  to: '/docs/about',
-  label: 'About',
-  position: 'left',
-},
-{
-  to: '/docs/contact',
-  label: 'Contact',
-  position: 'left',
-},
-
             ],
           },
         ],
